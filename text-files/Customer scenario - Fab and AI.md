@@ -2,13 +2,13 @@ Azure Synapse Analytics and AI
 
 </div>
 
-# Azure Synapse Analytics and AI whiteboard design session student guide
+# Microsoft Fabric and AI whiteboard design session student guide
 
 ## Abstract and learning objectives
 
-In this whiteboard design session, you will work in a group to look at the process of designing an end-to-end solution using Azure Synapse Analytics. The design session will cover data loading, data preparation, data transformation and data serving, along with performing machine learning and handling of both batch and real-time data.
+In this whiteboard design session, you will work in a group to look at the process of designing an end-to-end solution using Microsoft Fabric and Azure AI services. The design session will cover data loading, data preparation, data transformation and data serving, along with performing machine learning and handling of both batch and real-time data.
 
-At the end of this whiteboard design session, you will be better able to design and build a complete end-to-end advanced analytics solution using Azure Synapse Analytics.
+At the end of this whiteboard design session, you will be better able to design and build a complete end-to-end advanced analytics solution using Microsoft Fabric and Azure AI services.
 
 ## Step 1: Review the customer case study
 
